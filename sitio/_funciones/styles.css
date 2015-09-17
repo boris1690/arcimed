@@ -1,0 +1,118 @@
+#apDiv1 {
+	position: absolute;
+	left: 37px;
+	top: 43px;
+	width: 480px;
+	height: 111px;
+	z-index: 1;
+}
+#apDiv2 {
+	position: absolute;
+	left: 1294px;
+	top: 445px;
+	width: 569px;
+	height: 141px;
+	z-index: 2;
+}
+#apDiv3 {
+	position: absolute;
+	left: 379px;
+	top: 145px;
+	width: 769px;
+	height: 53px;
+	z-index: 3;
+	
+}
+#apDiv4 {
+	position: absolute;
+	left: 101px;
+	top: 159px;
+	width: 1000px;
+	height: 109px;
+	z-index: 3;
+	background-color: #FFFFFF;
+}
+#apDiv5 {
+	position: absolute;
+	/*left: 600px;
+	top: 350px;
+	width: 1157px;
+	height: 92px;
+	z-index: 3;*/
+	top: 354px;
+	margin: 0 auto;
+	left: 762px;
+}
+#apDiv7 table tr th p {
+	font-size: large;
+}
+
+#apDiv6 {
+	position: absolute;
+	left: 34px;
+	top: 799px;
+	width: 1218px;
+	height: 216px;
+	z-index: 4;
+}
+#apDiv7 {
+	position: absolute;
+	left: 78px;
+	top: 1720px;
+	width: 1942px;
+	height: 252px;
+	z-index: 4;
+	background-color: #CAD2E8;
+	font-size: 36px;
+}
+#apDiv8 {
+	position: absolute;
+	left: 248px;
+	top: 454px;
+	width: 1626px;
+	height: 926px;
+	z-index: 0;
+	visibility: visible;
+	color: #9FF;
+	background-color: #99CCFF;
+}
+#apDiv9 {
+	position: absolute;
+	left: 708px;
+	top: 492px;
+	width: 510px;
+	height: 304px;
+	z-index: 0;
+}
+#apDiv10 {
+	position: absolute;
+	left: 478px;
+	top: 1398px;
+	width: 852px;
+	height: 308px;
+	z-index: 5;
+}
+#apDiv10 table tr th p {
+	font-size: xx-large;
+}
+#apDiv10 table tr th p {
+	font-weight: bold;
+}
+#apDiv10 table tr th p {
+	font-weight: normal;
+	color: #FFF;
+}
+#apDiv7 {	position: absolute;
+	
+	top: 1720px;
+	width: 100%;
+	height: 252px;
+	z-index: 4;
+	background-color: #CAD2E8;
+	font-size: 36px;
+}
+.contacto{
+	position: absolute;
+	top: 551px;
+	left: 1182px;
+}
